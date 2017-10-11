@@ -1,0 +1,29 @@
+From Process 1: counter = 399937
+Child 21324 pid has just exited.
+From Process 2: counter = 699995
+Child 21325 pid has just exited.
+From Process 3: counter = 900003
+Child 21326 pid has just exited.
+From Process 4: counter = 1100000
+Child 21327 pid has just exited.
+End of Program.
+
+From Process 1: counter = 399928
+Child 21353 pid has just exited.
+From Process 2: counter = 699996
+Child 21354 pid has just exited.
+From Process 3: counter = 899999
+Child 21355 pid has just exited.
+From Process 4: counter = 1100000
+Child 21356 pid has just exited.
+End of Program.
+
+From Process 1: counter = 399917
+Child 21358 pid has just exited.
+From Process 2: counter = 700004
+Child 21359 pid has just exited.
+From Process 3: counter = 899999
+Child 21360 pid has just exited.
+From Process 4: counter = 1100000
+Child 21361 pid has just exited.
+End of Program.
